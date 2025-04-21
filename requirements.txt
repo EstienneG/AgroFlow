@@ -6,3 +6,4 @@ qdrant-client
 pyarrow
 seaborn
 torch
+PyPDF2
