@@ -2,12 +2,7 @@ mistralai
 llama_index
 llama-index-llms-mistralai
 llama-index-embeddings-mistralai
-langchain_mistralai
-langchain
 qdrant-client
-faiss-cpu
 pyarrow
 seaborn
 torch
-scikit-learn
-torchvision
