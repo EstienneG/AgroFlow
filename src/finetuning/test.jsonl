@@ -1,0 +1,166 @@
+{"text": "Comment les maladies des patates peuvent-elles \u00eatre transmises par le sol ?", "labels": {"intent": "disease_diagnosis"}}
+{"text": "Quelles sont les obligations de rotation des cultures pour les exploitations recevant des aides publiques ?", "labels": {"intent": "policy_help"}}
+{"text": "Comment les variations des prix des mati\u00e8res premi\u00e8res affectent-elles l'alimentation du b\u00e9tail ?", "labels": {"intent": "market_question"}}
+{"text": "Comment les pratiques de gestion des ressources en eau influencent-elles la r\u00e9silience des exploitations agricoles?", "labels": {"intent": "market_question"}}
+{"text": "Quelles sont les obligations en mati\u00e8re de conditionnalit\u00e9 sociale pour les agriculteurs en 2023 ?", "labels": {"intent": "policy_help"}}
+{"text": "Dois-je r\u00e9colter mes pommes de terre avant les fortes pluies annonc\u00e9es ?", "labels": {"intent": "weather_management"}}
+{"text": "Quels sont les signes de la pourriture des tomates ?", "labels": {"intent": "disease_diagnosis"}}
+{"text": "Les temp\u00e9ratures seront-elles suffisamment \u00e9lev\u00e9es pour la germination de mes semis cette semaine ?", "labels": {"intent": "weather_management"}}
+{"text": "Quelles sont les particularit\u00e9s topographiques \u00e0 prendre en compte pour la BCAE7 ?", "labels": {"intent": "policy_help"}}
+{"text": "Comment puis-je m'assurer que mes pratiques d'irrigation respectent les r\u00e9glementations environnementales ?", "labels": {"intent": "policy_help"}}
+{"text": "Quelles sont les exigences sp\u00e9cifiques pour les exploitations agricoles situ\u00e9es dans des zones sensibles aux nitrates ?", "labels": {"intent": "policy_help"}}
+{"text": "Comment les pratiques de culture biologique influencent-elles les prix des c\u00e9r\u00e9ales sur le march\u00e9 fran\u00e7ais ?", "labels": {"intent": "market_question"}}
+{"text": "Comment traiter la mosa\u00efque du tabac sur les patates ?", "labels": {"intent": "disease_diagnosis"}}
+{"text": "Quelles mesures doivent \u00eatre prises pour assurer le bien-\u00eatre des animaux selon la fiche technique de 2024 ?", "labels": {"intent": "policy_help"}}
+{"text": "Comment les variations des prix des produits agricoles bio de niche de sp\u00e9cialit\u00e9 de sp\u00e9cialit\u00e9 influencent-elles la consommation ?", "labels": {"intent": "market_question"}}
+{"text": "Comment savoir si mes tomates sont affect\u00e9es par des n\u00e9matodes ?", "labels": {"intent": "disease_diagnosis"}}
+{"text": "Est-il prudent de semer des l\u00e9gumes en plein air ce week-end ?", "labels": {"intent": "weather_management"}}
+{"text": "Quels sont les sympt\u00f4mes de la pourriture molle chez les patates ?", "labels": {"intent": "disease_diagnosis"}}
+{"text": "Quels sont les principaux gisements de biomasse v\u00e9g\u00e9tale fermentescible en France?", "labels": {"intent": "market_question"}}
+{"text": "Quelles sont les perspectives de croissance pour le march\u00e9 des produits agricoles biologiques?", "labels": {"intent": "market_question"}}
+{"text": "Est-ce que les pluies abondantes pr\u00e9vues pour la fin de la semaine vont inonder mes champs de pommes de terre ?", "labels": {"intent": "weather_management"}}
+{"text": "Les conditions m\u00e9t\u00e9orologiques sont-elles appropri\u00e9es pour la pollinisation de mes cultures de tournesol cette semaine ?", "labels": {"intent": "weather_management"}}
+{"text": "Comment g\u00e9rer les maladies virales des tomates ?", "labels": {"intent": "disease_diagnosis"}}
+{"text": "Y aura-t-il des orages violents qui pourraient endommager mes r\u00e9coltes de bl\u00e9 ?", "labels": {"intent": "weather_management"}}
+{"text": "Comment int\u00e9grer des pratiques agroforesti\u00e8res dans une exploitation agricole existante ?", "labels": {"intent": "other"}}
+{"text": "Quels sont les d\u00e9fis li\u00e9s \u00e0 la gestion des parasites dans l'agriculture?", "labels": {"intent": "market_question"}}
+{"text": "Comment traiter la mosa\u00efque du tabac sur les tomates ?", "labels": {"intent": "disease_diagnosis"}}
+{"text": "Quelles sont les tendances actuelles du march\u00e9 du riz en Europe ?", "labels": {"intent": "market_question"}}
+{"text": "Quels sont les d\u00e9fis et opportunit\u00e9s pour le march\u00e9 des produits agricoles locaux?", "labels": {"intent": "market_question"}}
+{"text": "Est-ce que les temp\u00e9ratures seront suffisamment \u00e9lev\u00e9es pour la germination des semences cette semaine ?", "labels": {"intent": "weather_management"}}
+{"text": "Quels sont les sc\u00e9narios possibles pour l'avenir des fili\u00e8res des grandes cultures face au changement climatique ?", "labels": {"intent": "market_question"}}
+{"text": "Comment g\u00e9rer efficacement les parasites et les maladies dans une exploitation agricole ?", "labels": {"intent": "other"}}
+{"text": "Comment identifier les maladies des patates \u00e0 un stade pr\u00e9coce ?", "labels": {"intent": "disease_diagnosis"}}
+{"text": "Quelles sont les exigences pour l'utilisation des mati\u00e8res organiques dans le cadre de la BCAE6 ?", "labels": {"intent": "policy_help"}}
+{"text": "Comment les co\u00fbts logistiques influencent-ils les prix des grains biologiques?", "labels": {"intent": "market_question"}}
+{"text": "Comment les certifications de qualit\u00e9 influencent-elles les prix des produits agricoles?", "labels": {"intent": "market_question"}}
+{"text": "Quelles sont les m\u00e9thodes de lutte biologique contre les parasites ?", "labels": {"intent": "other"}}
+{"text": "Quelles sont les tendances actuelles du march\u00e9 dans le secteur agricole ?", "labels": {"intent": "market_question"}}
+{"text": "Comment les pratiques de gestion des ressources en eau peuvent-elles am\u00e9liorer la r\u00e9silience des exploitations agricoles ?", "labels": {"intent": "market_question"}}
+{"text": "Comment pr\u00e9venir la propagation des maladies entre les plants de patates ?", "labels": {"intent": "disease_diagnosis"}}
+{"text": "Quelles sont les mesures de protection des eaux souterraines pr\u00e9vues par la r\u00e9glementation BCAE3 ?", "labels": {"intent": "policy_help"}}
+{"text": "Comment int\u00e9grer des pratiques agro\u00e9cologiques dans une exploitation conventionnelle ?", "labels": {"intent": "other"}}
+{"text": "Dois-je prot\u00e9ger mes cultures de fraises en pr\u00e9vision des fortes pluies cette semaine ?", "labels": {"intent": "weather_management"}}
+{"text": "Quels sont les avantages et inconv\u00e9nients de l'agriculture verticale ?", "labels": {"intent": "other"}}
+{"text": "Comment diff\u00e9rencier les maladies des patates des carences en nutriments ?", "labels": {"intent": "disease_diagnosis"}}
+{"text": "Quelles sont les obligations en mati\u00e8re de sant\u00e9 et de s\u00e9curit\u00e9 au travail pour les agriculteurs en 2022 ?", "labels": {"intent": "policy_help"}}
+{"text": "Quels sont les impacts de l'agriculture intensive sur l'environnement ?", "labels": {"intent": "other"}}
+{"text": "Quelles sont les obligations en mati\u00e8re de bien-\u00eatre animal selon la r\u00e9glementation en vigueur ?", "labels": {"intent": "policy_help"}}
+{"text": "Quelles sont les exigences pour l'identification des animaux selon la fiche technique de 2022 ?", "labels": {"intent": "policy_help"}}
+{"text": "Quels sont les signes pr\u00e9coces de maladies chez les patates ?", "labels": {"intent": "disease_diagnosis"}}
+{"text": "Comment les pratiques de durabilit\u00e9 affectent-elles la comp\u00e9titivit\u00e9 des produits agricoles?", "labels": {"intent": "market_question"}}
+{"text": "Quels sont les crit\u00e8res \u00e0 respecter pour la rotation des cultures selon la BCAE7 ?", "labels": {"intent": "policy_help"}}
+{"text": "Comment savoir si les feuilles de tomate sont malades ?", "labels": {"intent": "disease_diagnosis"}}
+{"text": "Y aura-t-il des orages qui pourraient affecter la qualit\u00e9 de mes r\u00e9coltes ce mois-ci ?", "labels": {"intent": "weather_management"}}
+{"text": "Quelles sont les r\u00e8gles concernant l'utilisation des mati\u00e8res organiques dans les exploitations agricoles ?", "labels": {"intent": "policy_help"}}
+{"text": "Quelles sont les strat\u00e9gies pour am\u00e9liorer la comp\u00e9titivit\u00e9 des produits agricoles sur les march\u00e9s internationaux?", "labels": {"intent": "market_question"}}
+{"text": "Quels sont les impacts des politiques de soutien aux petits producteurs sur le march\u00e9 agricole ?", "labels": {"intent": "market_question"}}
+{"text": "Les conditions m\u00e9t\u00e9orologiques sont-elles appropri\u00e9es pour la pollinisation de mes vergers cette semaine ?", "labels": {"intent": "weather_management"}}
+{"text": "Quels sont les sympt\u00f4mes de la pourriture des patates ?", "labels": {"intent": "disease_diagnosis"}}
+{"text": "Quels traitements naturels existent pour les maladies des tomates ?", "labels": {"intent": "disease_diagnosis"}}
+{"text": "Comment diagnostiquer la pr\u00e9sence de virus chez les patates ?", "labels": {"intent": "disease_diagnosis"}}
+{"text": "Quelles sont les interdictions de br\u00fblage des r\u00e9sidus agricoles en 2023 ?", "labels": {"intent": "policy_help"}}
+{"text": "Comment g\u00e9rer efficacement les parasites et maladies dans une culture de ma\u00efs ?", "labels": {"intent": "other"}}
+{"text": "Les conditions m\u00e9t\u00e9orologiques sont-elles favorables pour la plantation des semis cette semaine ?", "labels": {"intent": "weather_management"}}
+{"text": "Quels sont les sympt\u00f4mes des maladies des tomates ?", "labels": {"intent": "disease_diagnosis"}}
+{"text": "Quelles sont les tendances de consommation pour les produits agricoles transform\u00e9s en France?", "labels": {"intent": "market_question"}}
+{"text": "Quelles sont les perspectives de demande pour les produits agricoles biologiques ?", "labels": {"intent": "market_question"}}
+{"text": "Quels sont les signes de maladies racinaires chez les patates ?", "labels": {"intent": "disease_diagnosis"}}
+{"text": "Quels sont les impacts des politiques de soutien \u00e0 l'exportation sur le march\u00e9 agricole ?", "labels": {"intent": "market_question"}}
+{"text": "Quelles sont les exigences pour l'utilisation des produits phytopharmaceutiques en 2023 ?", "labels": {"intent": "policy_help"}}
+{"text": "Quelles sont les mesures \u00e0 prendre pour la gestion des produits phytopharmaceutiques ?", "labels": {"intent": "policy_help"}}
+{"text": "Quelles sont les obligations l\u00e9gales concernant la gestion des d\u00e9chets agricoles ?", "labels": {"intent": "policy_help"}}
+{"text": "Quels sont les impacts \u00e9conomiques des maladies des plantes sur les march\u00e9s agricoles?", "labels": {"intent": "market_question"}}
+{"text": "Comment optimiser l'utilisation des engrais pour maximiser les rendements ?", "labels": {"intent": "other"}}
+{"text": "Quelles sont les \u00e9tapes pour convertir une exploitation conventionnelle en agriculture biologique ?", "labels": {"intent": "other"}}
+{"text": "Quelles sont les mesures de bien-\u00eatre animal pr\u00e9vues par la r\u00e9glementation de 2024 ?", "labels": {"intent": "policy_help"}}
+{"text": "Quels sont les crit\u00e8res pour obtenir des aides financi\u00e8res pour la mise en place de bandes tampons ?", "labels": {"intent": "policy_help"}}
+{"text": "Comment utiliser les drones pour am\u00e9liorer la surveillance des cultures ?", "labels": {"intent": "other"}}
+{"text": "Quelles sont les opportunit\u00e9s de march\u00e9 pour les produits agricoles de niche comme le bl\u00e9 tendre ?", "labels": {"intent": "market_question"}}
+{"text": "Quels sont les principaux d\u00e9fis pour l'adoption des technologies de l'information en agriculture?", "labels": {"intent": "market_question"}}
+{"text": "Comment savoir si mes tomates sont affect\u00e9es par la pourriture grise ?", "labels": {"intent": "disease_diagnosis"}}
+{"text": "Quels sont les outils et technologies pour le diagnostic des maladies des tomates ?", "labels": {"intent": "disease_diagnosis"}}
+{"text": "Quelles sont les maladies les plus courantes des tomates et comment les traiter ?", "labels": {"intent": "disease_diagnosis"}}
+{"text": "Comment les maladies des tomates affectent-elles la reproduction des plantes ?", "labels": {"intent": "disease_diagnosis"}}
+{"text": "Quelles sont les exigences pour la gestion de la mati\u00e8re organique dans les exploitations agricoles ?", "labels": {"intent": "policy_help"}}
+{"text": "Quelles sont les exigences en mati\u00e8re de couverture des sols pour les exploitations agricoles ?", "labels": {"intent": "policy_help"}}
+{"text": "Quelles sont les mesures \u00e0 prendre pour prot\u00e9ger la biodiversit\u00e9 dans les zones agricoles ?", "labels": {"intent": "policy_help"}}
+{"text": "Quelles sont les obligations en mati\u00e8re de couverture des sols selon la BCAE4 ?", "labels": {"intent": "policy_help"}}
+{"text": "Est-ce que les conditions m\u00e9t\u00e9orologiques sont favorables pour planter du ma\u00efs cette semaine ?", "labels": {"intent": "weather_management"}}
+{"text": "Quels sont les enjeux de la fili\u00e8re biogazole en France ?", "labels": {"intent": "market_question"}}
+{"text": "Quelles sont les obligations en mati\u00e8re de sant\u00e9 et s\u00e9curit\u00e9 au travail (ESST) en 2022 ?", "labels": {"intent": "policy_help"}}
+{"text": "Comment les pratiques de gestion des maladies animales influencent-elles la productivit\u00e9 des exploitations?", "labels": {"intent": "market_question"}}
+{"text": "Quelles sont les obligations l\u00e9gales pour l'utilisation des pesticides en agriculture ?", "labels": {"intent": "policy_help"}}
+{"text": "Comment traiter la maladie des taches noires sur les patates ?", "labels": {"intent": "disease_diagnosis"}}
+{"text": "Les conditions m\u00e9t\u00e9orologiques seront-elles favorables pour le semis de mes l\u00e9gumes d'hiver ?", "labels": {"intent": "weather_management"}}
+{"text": "Quelles sont les bonnes pratiques pour l'utilisation des produits phytopharmaceutiques en 2023 ?", "labels": {"intent": "policy_help"}}
+{"text": "Quelles sont les opportunit\u00e9s et les menaces pour le march\u00e9 des prot\u00e9agineux en France ?", "labels": {"intent": "market_question"}}
+{"text": "Quelles substances sont interdites dans l'alimentation des animaux selon les fiches techniques de 2022 et 2023 ?", "labels": {"intent": "policy_help"}}
+{"text": "Quelles sont les perspectives pour le d\u00e9veloppement des march\u00e9s de niche dans l'agriculture?", "labels": {"intent": "market_question"}}
+{"text": "Comment g\u00e9rer les ressources en eau de mani\u00e8re durable ?", "labels": {"intent": "other"}}
+{"text": "Quels sont les signes pr\u00e9coces de maladie chez les tomates ?", "labels": {"intent": "disease_diagnosis"}}
+{"text": "Quels sont les d\u00e9fis de l'agriculture urbaine et comment les surmonter ?", "labels": {"intent": "other"}}
+{"text": "Comment les variations des prix des produits agricoles transform\u00e9s influencent-elles les marges b\u00e9n\u00e9ficiaires?", "labels": {"intent": "market_question"}}
+{"text": "Quels sont les d\u00e9fis pour la commercialisation des produits agricoles locaux?", "labels": {"intent": "market_question"}}
+{"text": "Quelles sont les principales difficult\u00e9s auxquelles les agriculteurs sont confront\u00e9s pour acc\u00e9der aux march\u00e9s?", "labels": {"intent": "market_question"}}
+{"text": "Quels sont les impacts \u00e9conomiques de la transition vers l'agriculture biologique ?", "labels": {"intent": "market_question"}}
+{"text": "Quels sont les signes de maladie sur les fruits des tomates ?", "labels": {"intent": "disease_diagnosis"}}
+{"text": "Comment les pratiques de gestion des ressources en eau influencent-elles la durabilit\u00e9 des exploitations agricoles?", "labels": {"intent": "market_question"}}
+{"text": "Comment les maladies des tomates affectent-elles la qualit\u00e9 des fruits ?", "labels": {"intent": "disease_diagnosis"}}
+{"text": "Comment les variations des prix des produits agricoles locaux influencent-elles les habitudes de consommation?", "labels": {"intent": "market_question"}}
+{"text": "Quelles sont les obligations en mati\u00e8re de protection des eaux souterraines dans les zones agricoles ?", "labels": {"intent": "policy_help"}}
+{"text": "Quels sont les principaux acteurs du march\u00e9 des ol\u00e9oprot\u00e9agineux en France ?", "labels": {"intent": "market_question"}}
+{"text": "Comment les accords commerciaux internationaux influencent-ils le march\u00e9 agricole fran\u00e7ais?", "labels": {"intent": "market_question"}}
+{"text": "Quelles sont les innovations r\u00e9centes dans le secteur des semences et leur impact sur le march\u00e9?", "labels": {"intent": "market_question"}}
+{"text": "Comment savoir si ma patate est malade ?", "labels": {"intent": "disease_diagnosis"}}
+{"text": "Comment savoir si mes patates sont affect\u00e9es par la pourriture des feuilles ?", "labels": {"intent": "disease_diagnosis"}}
+{"text": "Comment savoir si une patate est atteinte de la maladie des taches foliaires ?", "labels": {"intent": "disease_diagnosis"}}
+{"text": "Comment les variations des prix des produits agricoles de niche influencent-elles les habitudes de consommation?", "labels": {"intent": "market_question"}}
+{"text": "Les conditions m\u00e9t\u00e9orologiques sont-elles propices \u00e0 l'application de pesticides aujourd'hui ?", "labels": {"intent": "weather_management"}}
+{"text": "Dois-je couvrir mes fraisiers en pr\u00e9vision des gel\u00e9es nocturnes cette semaine ?", "labels": {"intent": "weather_management"}}
+{"text": "Quelles sont les pr\u00e9visions pour le march\u00e9 des produits avicoles en 2025 ?", "labels": {"intent": "market_question"}}
+{"text": "Quelles sont les strat\u00e9gies pour diversifier les sources de revenus agricoles ?", "labels": {"intent": "other"}}
+{"text": "Quelles sont les perspectives pour le march\u00e9 du bl\u00e9 tendre en 2025?", "labels": {"intent": "market_question"}}
+{"text": "Quels sont les meilleurs pesticides pour traiter les maladies des patates ?", "labels": {"intent": "disease_diagnosis"}}
+{"text": "Le temps sera-t-il sec et ensoleill\u00e9 pour la fenaison ?", "labels": {"intent": "weather_management"}}
+{"text": "Quelles sont les mesures \u00e0 prendre pour prot\u00e9ger les oiseaux sauvages et leurs habitats selon la r\u00e9glementation en vigueur ?", "labels": {"intent": "policy_help"}}
+{"text": "Les vents forts pr\u00e9vus pour ce week-end vont-ils endommager mes r\u00e9coltes ?", "labels": {"intent": "weather_management"}}
+{"text": "Quelles mesures doivent \u00eatre prises pour pr\u00e9venir l'\u00e9rosion des sols selon la BCAE5 ?", "labels": {"intent": "policy_help"}}
+{"text": "Comment les maladies des patates se propagent-elles d'une plante \u00e0 l'autre ?", "labels": {"intent": "disease_diagnosis"}}
+{"text": "Quels sont les outils et techniques pour surveiller la sant\u00e9 des sols ?", "labels": {"intent": "other"}}
+{"text": "Comment les innovations en biotechnologie influencent-elles le march\u00e9 des semences ?", "labels": {"intent": "market_question"}}
+{"text": "Quelles sont les strat\u00e9gies pour attirer et retenir la main-d'\u0153uvre dans le secteur agricole ?", "labels": {"intent": "other"}}
+{"text": "Quels sont les crit\u00e8res \u00e0 respecter pour la rotation des cultures en 2024 ?", "labels": {"intent": "policy_help"}}
+{"text": "Quelles sont les exigences de la directive cadre sur l'eau pour l'agriculture en 2023 ?", "labels": {"intent": "policy_help"}}
+{"text": "Quelles sont les pr\u00e9visions pour le march\u00e9 des prot\u00e9agineux en 2024 ?", "labels": {"intent": "market_question"}}
+{"text": "Quels sont les signes de maladies syst\u00e9miques chez les patates ?", "labels": {"intent": "disease_diagnosis"}}
+{"text": "Comment les variations des prix des intrants agricoles affectent-elles la rentabilit\u00e9 des exploitations?", "labels": {"intent": "market_question"}}
+{"text": "Quelles sont les mesures de gestion des nitrates que les agriculteurs doivent respecter ?", "labels": {"intent": "policy_help"}}
+{"text": "Quelles sont les obligations en mati\u00e8re de tra\u00e7abilit\u00e9 des animaux d'\u00e9levage ?", "labels": {"intent": "policy_help"}}
+{"text": "Comment les pratiques de gestion de l'eau affectent-elles les rendements agricoles?", "labels": {"intent": "market_question"}}
+{"text": "Quels sont les effets des maladies sur la croissance des patates ?", "labels": {"intent": "disease_diagnosis"}}
+{"text": "Quels sont les principaux enjeux pour les fili\u00e8res c\u00e9r\u00e9ales en 2024?", "labels": {"intent": "market_question"}}
+{"text": "Comment utiliser les capteurs pour monitorer les conditions du sol ?", "labels": {"intent": "other"}}
+{"text": "Quelles sont les dynamiques de consommation des boissons en France depuis 2007?", "labels": {"intent": "market_question"}}
+{"text": "Comment savoir si une patate est affect\u00e9e par la fusariose ?", "labels": {"intent": "disease_diagnosis"}}
+{"text": "Les conditions m\u00e9t\u00e9orologiques seront-elles favorables pour la transplantation de mes plants de l\u00e9gumes ce weekend ?", "labels": {"intent": "weather_management"}}
+{"text": "Comment les pratiques de gestion des d\u00e9chets agricoles affectent-elles l'environnement?", "labels": {"intent": "market_question"}}
+{"text": "Comment les march\u00e9s des c\u00e9r\u00e9ales bio se comparent-ils aux march\u00e9s conventionnels?", "labels": {"intent": "market_question"}}
+{"text": "Quelles sont les r\u00e9glementations \u00e0 respecter pour l'utilisation des pesticides ?", "labels": {"intent": "other"}}
+{"text": "Comment savoir si une patate est affect\u00e9e par une maladie virale ?", "labels": {"intent": "disease_diagnosis"}}
+{"text": "Comment les pratiques de culture intensive affectent-elles la biodiversit\u00e9?", "labels": {"intent": "market_question"}}
+{"text": "Comment les initiatives de commerce \u00e9quitable affectent-elles les prix des produits agricoles ?", "labels": {"intent": "market_question"}}
+{"text": "Les pr\u00e9visions de vent pour la semaine prochaine sont-elles favorables \u00e0 la dispersion des pollens de mes cultures de ma\u00efs ?", "labels": {"intent": "weather_management"}}
+{"text": "Quelles sont les r\u00e9glementations concernant la gestion des nitrates en agriculture ?", "labels": {"intent": "policy_help"}}
+{"text": "Comment puis-je traiter le mildiou sur mes tomates ?", "labels": {"intent": "disease_diagnosis"}}
+{"text": "Comment diff\u00e9rencier les maladies des tomates des carences en nutriments ?", "labels": {"intent": "disease_diagnosis"}}
+{"text": "Comment les pratiques de culture en serre peuvent-elles am\u00e9liorer la production agricole?", "labels": {"intent": "market_question"}}
+{"text": "Y a-t-il un risque de temp\u00eates qui pourraient endommager mes r\u00e9coltes de fruits ?", "labels": {"intent": "weather_management"}}
+{"text": "Comment les pratiques de gestion de la cha\u00eene de valeur influencent-elles les marges b\u00e9n\u00e9ficiaires dans l'agriculture ?", "labels": {"intent": "market_question"}}
+{"text": "Dois-je reporter la r\u00e9colte de mes pommes en raison des pr\u00e9visions de vent fort ?", "labels": {"intent": "weather_management"}}
+{"text": "Quelles sont les exigences pour la gestion des bandes tampons le long des cours d'eau ?", "labels": {"intent": "policy_help"}}
+{"text": "Quels sont les signes de carence en nutriments qui peuvent \u00eatre confondus avec des maladies chez les patates ?", "labels": {"intent": "disease_diagnosis"}}
+{"text": "Comment les pratiques de gestion des ressources naturelles influencent-elles la production agricole ?", "labels": {"intent": "market_question"}}
+{"text": "Quels sont les signes de maladies transmises par le sol chez les tomates ?", "labels": {"intent": "disease_diagnosis"}}
+{"text": "Quelles mesures doivent \u00eatre mises en place pour prot\u00e9ger les oiseaux sauvages et leurs habitats ?", "labels": {"intent": "policy_help"}}
+{"text": "Quelles sont les r\u00e8gles concernant l'interdiction de br\u00fblage des d\u00e9chets agricoles ?", "labels": {"intent": "policy_help"}}

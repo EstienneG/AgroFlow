@@ -4,7 +4,7 @@ Example FastAPI application using the disease_prediction module
 """
 from fastapi import FastAPI, File, UploadFile, HTTPException
 import uvicorn
-from disease_prediction import predict_from_image
+from plant_disease.disease_prediction import predict_from_image
 
 # Create FastAPI app
 app = FastAPI(
