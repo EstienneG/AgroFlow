@@ -135,6 +135,11 @@ async def root() -> Dict[str, Union[str, List[str]]]:
         ]
     }
 
+@app.get("/health")
+async def health_check() -> Dict[str, str]:
+    """API health check endpoint."""
+    return {"status": "healthy"}
+
 
 @app.post("/predict/upload")
 async def predict_image(file: UploadFile = File(...)) -> Dict:
@@ -165,12 +170,6 @@ async def predict_image(file: UploadFile = File(...)) -> Dict:
         
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Prediction error: {str(e)}")
-
-
-@app.get("/health")
-async def health_check() -> Dict[str, str]:
-    """API health check endpoint."""
-    return {"status": "healthy"}
 
 
 @app.post("/search")

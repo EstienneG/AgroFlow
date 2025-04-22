@@ -8,3 +8,4 @@ seaborn
 torch
 PyPDF2
 wandb
+rank_bm25
