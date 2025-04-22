@@ -38,33 +38,39 @@ def initialize_qdrant() -> QdrantClient:
                 document_embeddings = pickle.load(f)
                 
             # Create collections for different document types if they don't exist
-            collections = ["technical_reports"]
-            for collection_name in collections:
-                # Check if collection exists
+            collection_name = "technical_reports"
+            # Check if collection exists
+            try:
+                qdrant_client.get_collection(collection_name=collection_name)
+            except Exception:
+                # Create collection if it doesn't exist
+                qdrant_client.create_collection(
+                    collection_name=collection_name,
+                    vectors_config=VectorParams(size=1024, distance=Distance.COSINE)
+                )
+            
+            # Process tabular structured embeddings and create points for Qdrant
+            collection_points = []
+            
+            # Format of embeddings_file: id  vector  payload
+            # Where id column contains UUIDs that should be used as Qdrant IDs
+            for _, row in document_embeddings.iterrows():
                 try:
-                    qdrant_client.get_collection(collection_name=collection_name)
-                except Exception:
-                    # Create collection if it doesn't exist
-                    qdrant_client.create_collection(
-                        collection_name=collection_name,
-                        vectors_config=VectorParams(size=1024, distance=Distance.COSINE)
+                    # Extract UUID from the id column to use as the actual Qdrant ID
+                    point_id = row['id']
+                    vector = row['vector']
+                    payload = row['payload']
+                    
+                    collection_points.append(
+                        PointStruct(
+                            id=point_id,
+                            vector=vector,
+                            payload=payload
+                        )
                     )
-                
-                # Filter embeddings for this collection and upsert them
-                collection_points = []
-                for item in document_embeddings:
-                    try:
-                        if item["collection"] == collection_name:
-                            collection_points.append(
-                                PointStruct(
-                                    id=item["id"],
-                                    vector=item["vector"],
-                                    payload=item["payload"]
-                                )
-                            )
-                    except (TypeError, KeyError) as e:
-                        print(f"Error processing item: {e}")
-                        continue
+                except Exception as e:
+                    print(f"Error processing embedding row: {e}")
+                    continue
                 
                 # Only upsert if there are points for this collection
                 if collection_points:
@@ -72,8 +78,8 @@ def initialize_qdrant() -> QdrantClient:
                         collection_name=collection_name,
                         points=collection_points
                     )
-                    print(f"Loaded {len(collection_points)} document embeddings for {collection_name}")
-            
+
+            print(f"Loaded {len(collection_points)} document embeddings for {collection_name}")
             print("Document embeddings loaded successfully")
             
         except Exception as e:
