@@ -2,7 +2,7 @@
 
 ## Overview
 
-AgriAssist is an intelligent advisory system designed to empower French farmers ("agriculteurs") with a simple and intuitive tool for addressing a wide range of agricultural challenges. This project leverages artificial intelligence to provide specialized assistance across multiple domains of agricultural interest, from crop disease diagnosis to weather management and market insights.
+AgroFlow is an intelligent advisory system designed to empower French farmers ("agriculteurs") with a simple and intuitive tool for addressing a wide range of agricultural challenges. This project leverages artificial intelligence to provide specialized assistance across multiple domains of agricultural interest, from crop disease diagnosis to weather management and market insights.
 
 ## Project Architecture
 
