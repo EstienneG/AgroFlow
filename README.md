@@ -105,4 +105,4 @@ Example queries:
 
 ---
 
-*AgriAssist: Empowering French farmers with AI-driven agricultural intelligence*
+*AgroFlow: Empowering French farmers with AI-driven agricultural intelligence*
