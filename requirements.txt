@@ -9,3 +9,5 @@ torch
 PyPDF2
 wandb
 rank_bm25
+duckduckgo_search
+markdownify
